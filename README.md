@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📝 (Check out my profile!)[https://www.nathantsang.dev/]
+- 📝 [Check out my profile!](https://www.nathantsang.dev/)
 - 🌱 Learning React, Javascript, and other interesting frameworks. 
 - 🔭 Small, fun projects that catch my fancy. 
